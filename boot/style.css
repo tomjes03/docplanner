@@ -1,0 +1,13 @@
+.logo{
+    padding-left: 200px;
+}
+
+.navigation{
+    padding-right: 200px;
+}
+
+.sub_nav{
+    outline: none;
+    appearance: none;
+    border: 0;
+}
